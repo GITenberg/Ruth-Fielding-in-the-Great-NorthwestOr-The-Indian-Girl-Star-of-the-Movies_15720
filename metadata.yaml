@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '1619'
     url: http://www.gutenberg.org/2009/agents/1619
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15720#Ruth-Fielding-in-the-Great-NorthwestOr-The-Indian-Girl-Star-of-the-Movies
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2005-04-27'
 gutenberg_type: Text
